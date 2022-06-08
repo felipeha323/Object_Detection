@@ -2,7 +2,7 @@ Pasos para la ejecución del repositorio
 
 1. Descargamos el repositorio
 
-2. Descomprimimos y abrimos anaconda.navigator en este caso, sin embargo, se puede realizar por consola en caso de que se use el entorno visual
+2. Descomprimimos y abrimos anaconda.navigator (Importante actualizar a la última versión para que funcione el modelo ya que esta versión actualizada trae una dependencias necesarias por lo que se es necesario tener la última versión) en este caso, sin embargo, se puede realizar por consola en caso de que se use el entorno visual
 
 3. nos vamos al apartado de Enviroment 
 
