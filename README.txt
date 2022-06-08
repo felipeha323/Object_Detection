@@ -18,4 +18,4 @@ Pasos para la ejecución del repositorio
 
 9. accedemos al la ubicacion donde esté guardado el repositorio y acedemos a la siguiente ruta  /yolov5/Soporte.ipynb
 
-10. se puede ver el estado de la última ejecución o si desea ejecutar de nuevo 
+10. se puede ver el estado de la última ejecución o si desea ver los videos puede ejecutar de nuevo 
